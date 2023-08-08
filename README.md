@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **JetPackCompose,AdMob,Map,DHilt,Database,Firebase and MlKit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/androiddev001/](https://github.com/androiddev001/)
+- 👨‍💻 All of my projects are available at [https://github.com/abdujabborahmadjonov/](https://github.com/abdujabborahmadjonov/)
 
-- 📝 I regularly write articles on [https://github.com/androiddev001/](https://github.com/androiddev001/)
+- 📝 I regularly write articles on [https://github.com/abdujabborahmadjonov/](https://github.com/abdujabborahmadjonov/)
 
 - 📫 How to reach me **uzbking0107@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/androiddev001/](https://github.com/androiddev001/)
+- 📄 Know about my experiences [https://github.com/abdujabborahmadjonov/](https://github.com/abdujabborahmadjonov/)
 
 - ⚡ Fun fact **I am funny😁**
 
@@ -27,4 +27,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
- <p align="center"> <a href="https://github.com/androiddev001"><img src="https://github-profile-trophy.vercel.app/?username=androiddev001" alt="androiddev001" /></a> </p>
+ <p align="center"> <a href="https://github.com/abdujabborahmadjonov"><img src="https://github-profile-trophy.vercel.app/?username=abdujabborahmadjonov" alt="abdujabborahmadjonov" /></a> </p>
